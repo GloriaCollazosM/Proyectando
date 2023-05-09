@@ -1,0 +1,86 @@
+dia del trabajador 
+es lunes
+once de la noche
+saliendo de error:
+ls
+	practica.txt
+git init
+	initialized empty...
+git add practica.txt
+
+RESULTADO OK
+el error consistió en que al eliminar el .git, no se desapareció la palabra (Master) de la terminal de GIT bash.
+
+tener cuidado al escribir correctamente
+finaliza clase de 10 marzo 2023
+repositorios
+unidad 3
+Git
+
+REPASANDO
+13/03/2023
+Paso 0= Instalar GIT
+Paso 1= Configurar Git:
+	git config --global user.name "Gloria Collazos"
+	git config --global user.email "yoyacoma@yahoo.es"
+
+En la TERMINAL de Git Bash:
+Paso 2= *ls
+	 Ver archivos
+	*ls -a 
+	 Ver archivos ocultos
+	 ./../.git/practica.txt
+	 ./../ carpetas ocultas
+
+	git init
+	Inicializa el repositorio
+
+
+Paso 3= 
+	git add nom_arch.ext= para un solo archivo
+	git add .= para varios archivos se coloca .
+
+Paso 4=
+	git commit -m "aqui se 
+	escribe de que trata el comentario. 
+	Por ejemplo: REPASANDO "
+nota cuando el comando no esta completo, 
+el resultado es TERMINAL con editor VI o VIM; en ello se debe escribir i 
+en la parte superior izquierda. 
+Aparecerá la palabra INSERT al final de la terminal.
+para quitar INSERT se debe situar en lado superior izquierdo y se teclea shift zz.
+
+
+lunes 08 de mayo 2023
+
+practica.txt
+--practica.txt--
+quiero guardar un cambio
+mayo 8 2023
+
+BE
+
+I am
+You are
+He is
+She is
+We are
+They are
+
+HAVE
+
+I have
+You have
+He has
+She has
+It has
+
+Verb BE
+and
+Verb Have
+
+Single
+and
+Plural
+
+Temp Present
