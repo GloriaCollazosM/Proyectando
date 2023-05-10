@@ -50,6 +50,33 @@ en la parte superior izquierda.
 Aparecerá la palabra INSERT al final de la terminal.
 para quitar INSERT se debe situar en lado superior izquierdo y se teclea shift zz.
 
+nota: si ingresa a VIM, puede salir con 'Shift z z' o con ':wq'
+
+	git commit -am "nota de cambio en el archivo"
+
+	git status
+	git log (ver las diferentes versiones)
+	git branch
+	git checkout
+	git clone
+	git add
+	git commit
+	git pull
+	git push
+	git diff (ver diferencias entre versiones -commits)13/3/2023. 2.08
+	git merge (fusiona ramas)
+	.....estas funciones están en la literatura de unidad 3
+
+Para FUSIONAR RAMAS:
+ejemplo---	git branch
+		desarrollador
+		*main (*indica que es la principal rama)
+
+Entonces----	git merge desarrollador ...enter..
+		resultado la fusión de las ramas, se une todo el trabajo realizado
+
+
+
 
 lunes 08 de mayo 2023
 
