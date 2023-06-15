@@ -1,0 +1,69 @@
+i "aqui se realiza la prueba con pach
+se guarda el cambio
+e intenta realizar la operacion"
+# "cambiando a pach" Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   pach
+
+
+
+ #
+
+Python
+Replit
+main.py
+nombre = "Yoyi"
+nombre1 = "Stella Collazos"
+nombre2 = "Fernando Serna"
+nombre3 = "Alejandro Serna"
+edad=51
+edad1 = 51
+edad2 = 54
+edad3 =16 
+estatura = 1.52
+estatura1 = 1.50
+estatura2 = 1.72
+estatura3 = 1.70
+nacimiento = ("28-12-1971")
+nacimiento1 = ("28 -12-1971")
+nacimiento2 = ("22-10-1968")
+nacimiento3 = ("1-6-2006")
+print (nombre)
+print (nombre1)
+print (nombre, edad, estatura)
+print (nombre3, nacimiento3, estatura3, edad3)
+print (edad3)
+print (estatura3)
+
+
+nombre = "Yoyi"
+nombre1 = "Stella Collazos"
+nombre2 = "Fernando Serna"
+nombre3 = "Alejandro Serna"
+edad=51
+edad1 = 51
+edad2 = 54
+edad3 =16 
+estatura = 1.52
+estatura1 = 1.50
+estatura2 = 1.72
+estatura3 = 1.70
+nacimiento = ("28-12-1971")
+nacimiento1 = ("28 -12-1971")
+nacimiento2 = ("22-10-1968")
+nacimiento3 = ("1-6-2006")
+
+
+
+
+
+
+print (nombre)
+print (nombre1)
+print (nombre, edad, estatura)
+print (nombre3, nacimiento3, estatura3, edad3)
+print (edad3)
+print (estatura3)
